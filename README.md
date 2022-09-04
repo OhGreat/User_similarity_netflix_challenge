@@ -1,5 +1,5 @@
-# User_similarity_netflix_challenge
-Finding user similarities in the netflix challenge dataset by using Jaccard Similarity, Cosine Similarity and Discrete Cosine Similarity.<br/>
+# User similarity netflix challenge
+The repository contains a script for finding similar users in the netflix challenge dataset, by using Jaccard Similarity, Cosine Similarity and Discrete Cosine Similarity.<br/>
 This repository is the resolution for the second assignment of the course `Advances in Data Mining` taught at Leiden University and is based on chapter 3 of the `Mining Massive Datasets` book by Jure Leskovec, Anand Rajaraman and Jeff Ullman.
 
 ## Installation
